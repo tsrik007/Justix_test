@@ -1,7 +1,7 @@
 # Justix_test
 
 Fill the required details in terraform.tfvars file.
-Run the below command 
+Run the below commands 
 
 $ git clone https://github.com/tsrik007/Justix_test.git
 
