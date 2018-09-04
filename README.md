@@ -1,11 +1,11 @@
-# Justix_test
+43t# Justix_test
 
 Fill the required details in terraform.tfvars file.
 Run the below commands 
 
-$ git clone https://github.com/tsrik007/Justix_test.git
+$ git clone https://github.com/tsrik007/Justix_testws.git
 
-$ cd vaultier
+$ Justix_testws.git
 
 $ export TF_VAR_access_key=""
 
