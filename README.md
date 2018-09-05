@@ -1,10 +1,8 @@
 # Justix Test Code
-==================
 
 This is the test code for the requirement given as part of the test.
 
-General Requirements
-------------
+### General Requirements
 
 -	[Terraform](https://www.terraform.io/downloads.html)
 -	[Docker](https://docs.docker.com/install/)
